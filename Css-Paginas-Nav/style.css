@@ -1,0 +1,19 @@
+.btn-purple{
+    background: #562BB2;
+    color: #fff;
+    padding: 30px;
+}
+
+.btn-purple:hover{
+    background-color: #562BB2;
+    color: #fff;
+    padding: 30px;
+}
+
+ul.nav a:hover{
+font-size: 20px;
+}  
+
+footer{
+    background: #2D314D;
+}
